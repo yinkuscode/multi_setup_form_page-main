@@ -1,0 +1,9 @@
+.sidebar {
+  background-image: url(./assets/images/bg-sidebar-desktop.svg);
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: 100% 100%;
+  width: 100%;
+  background-color: red;
+  height: 100%;
+}
